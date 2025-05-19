@@ -52,5 +52,6 @@
 // alert(ReverseString(aString));
 
 const LongestWord = function (aSentence){
-    let anArray 
+    let anArray = aSentence.split("")
+
 }
