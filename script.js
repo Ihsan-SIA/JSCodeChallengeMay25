@@ -55,5 +55,5 @@ const LongestWord = function (aSentence){
     let anArray = aSentence.split("");
     let noOfWords = anArray.length()
 
-    dd
+    d
 }
