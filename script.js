@@ -42,11 +42,15 @@
 // alert(LargestOfThree(a, b, c));
 
 
-const ReverseString = function (aString){
-    let anArray = aString.split("")
-    let bArray = anArray.reverse()
-    aString = bArray.join("");
-    return aString;
+// const ReverseString = function (aString){
+//     let anArray = aString.split("")
+//     let bArray = anArray.reverse()
+//     aString = bArray.join("");
+//     return aString;
+// }
+// aString = prompt("Enter your string here");
+// alert(ReverseString(aString));
+
+const LongestWord = function (aSentence){
+    let anArray 
 }
-aString = prompt("Enter your string here");
-alert(ReverseString(aString));
