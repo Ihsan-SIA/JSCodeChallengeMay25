@@ -56,7 +56,8 @@ const LongestWord = function (aSentence, noOfWords){
     let anArray = aSentence.split("");
     noOfWords = anArray.length()
     for (let i = 0; i < anArray.length; i++) {
-        const element = array[index]i
+        if (anArray[i]>anArray[i+1])
+        
         
     }
 }
