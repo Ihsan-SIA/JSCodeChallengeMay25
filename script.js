@@ -55,5 +55,8 @@ const LongestWord = function (aSentence, noOfWords){
     aSentence = "This is Nigeria which is a country"
     let anArray = aSentence.split("");
     noOfWords = anArray.length()
-    
+    for (let i = 0; i < anArray.length; i++) {
+        const element = array[index]i
+        
+    }
 }
