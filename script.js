@@ -51,8 +51,9 @@
 // aString = prompt("Enter your string here");
 // alert(ReverseString(aString));
 
-const LongestWord = function (aSentence){
+const LongestWord = function (aSentence, noOfWords){
+    aSentence = "This is Nigeria which is a country"
     let anArray = aSentence.split("");
-    let noOfWords = anArray.length()
-    noOfWords[0] =
+    noOfWords = anArray.length()
+    
 }
